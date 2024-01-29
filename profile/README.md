@@ -11,19 +11,19 @@ Robô de auto atendimento para atuar no almoxarifado AMBEV, facilitando o atendi
 ## 💻 Prototipação de um veículo autônomo:
 
 - Grupo 1 - José entregas
-  - Link do repositório: https://github.com/2023M8T2-Inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M8T2-Inteli-grupo1
 
 - Grupo 2 - BBB
-  - Link do repositório: https://github.com/2023M8T2-Inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M8T2-Inteli-grupo2
 
 - Grupo 3 - Alfred
-  - Link do repositório: https://github.com/2023M8T2-Inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M8T2-Inteli-grupo3
 
 - Grupo 4 - The manobristas
-  - Link do repositório: https://github.com/2023M8T2-Inteli/grupo4
+  - Link do repositório: https://github.com/InteliProjects/2023M8T2-Inteli-grupo4
 
 - Grupo 5 - Naviguide
-  - Link do repositório: https://github.com/2023M8T2-Inteli/grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M8T2-Inteli-grupo5
 
 - Grupo 6 - Chauffeur
   - Link do repositório: https://github.com/2023M8T2-Inteli/grupo6
