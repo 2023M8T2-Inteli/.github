@@ -26,4 +26,4 @@ Robô de auto atendimento para atuar no almoxarifado AMBEV, facilitando o atendi
   - Link do repositório: https://github.com/InteliProjects/2023M8T2-Inteli-grupo5
 
 - Grupo 6 - Chauffeur
-  - Link do repositório: https://github.com/2023M8T2-Inteli/grupo6
+  - Link do repositório: https://github.com/InteliProjects/2023M8T2-Inteli-grupo6
